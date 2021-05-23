@@ -40,7 +40,7 @@ class Form extends React.Component {
         // these parameters are passed to addCar() in App
 				this.props.addCar(newSlotNo, this.state.newCarRegNo, this.state.newCarColor);
 				// console.log(this.props.addCar)
-				return
+				return;
       }
     })
 
