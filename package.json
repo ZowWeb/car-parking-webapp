@@ -3,10 +3,10 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "bootstrap": "^3.3.7",
     "react": "^16.8.3",
     "react-dom": "^16.8.3",
-    "react-scripts": "2.1.5",
-    "bootstrap": "^3.3.7"
+    "react-scripts": "^2.1.5"
   },
   "scripts": {
     "start": "react-scripts start",
